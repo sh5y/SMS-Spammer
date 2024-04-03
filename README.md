@@ -23,3 +23,5 @@ How to run:
 Open CMD in file
 'pip install twilio'
 once installed, run the file with 'py SMS.py'
+
+Recipient must provide you with a code for messages to go through!
